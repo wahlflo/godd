@@ -1,3 +1,5 @@
+[![tests](https://github.com/wahlflo/godd/actions/workflows/tests.yml/badge.svg)](https://github.com/wahlflo/godd/actions/workflows/tests.yml)
+
 # godd
 ``godd`` is a simple cli tool for copying binary data similar to the ``dd`` command.
 
