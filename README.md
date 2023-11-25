@@ -14,7 +14,7 @@ sudo GOBIN=/usr/local/bin/ go install cmd/godd.go
 ## Usage
 
 ```
-[bob@xps godd]$ godd -h
+> godd -h
 Usage: godd -source SOURCE -destination DESTINATION [OPTIONS]
 Options:
   -buffer-size int
